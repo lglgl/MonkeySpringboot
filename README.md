@@ -35,4 +35,5 @@ public final class Person {
 
 
 ## 3. 打开http://127.0.0.1:8080/ldap/findAllUser
+![用户6.jpg](http://blog.dahouzi.cn/blog/picture/用户6.jpg?imageView/2/w/800)
 即可看到企业所有用户成员
